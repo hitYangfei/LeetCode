@@ -8,3 +8,5 @@
 SingleNumber.java：文件包含的源码，见文件注释SingleNumberI & SingleNumberII
 
 LinkedListCycle.java:hasCycle()函数为第一题源码，detectCycle()函数为第二题源码
+#
+test
